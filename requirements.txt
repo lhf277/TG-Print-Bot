@@ -1,0 +1,3 @@
+python-telegram-bot
+pywin32
+Pillow
