@@ -8,11 +8,11 @@ A bot that receives text messages and images from Telegram and prints them. Most
 
 仅适用于 Windows 上的 Python 3.13 环境
 
-首先执行 'pip install requirements.txt' 
+首先执行 `pip install requirements.txt`
 
-修改 paperang.py 文件中的 'MAX_TEXT_LENGTH' 'PRINTER_NAME' 'PRINTER_WIDTH' 以及 'BOT_TOKEN' 配置项， 'BOT_TOKEN' 请找 @BotFather 创建一个
+修改 paperang.py 文件中的 `MAX_TEXT_LENGTH` `PRINTER_NAME` `PRINTER_WIDTH` 以及 `BOT_TOKEN` 配置项， `BOT_TOKEN` 请找 @BotFather 创建一个
 
-确保你的网络环境足够稳定后 'python paperang.py' 启动本项目。 
+确保你的网络环境足够稳定后 `python paperang.py` 启动本项目。 
 
 
 ## 协议
